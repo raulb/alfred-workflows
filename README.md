@@ -1,18 +1,9 @@
 # Alfred Workflows
 
 A collection of [Alfred 2](http://www.alfredapp.com/) workflows from multiple sources.
+This is just my personal selection with my tweaks that I use everyday.
 
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-
-## History
-
-See [Release](https://github.com/zenorocha/alfred-workflows/releases) list.
+Check the [original repository](https://github.com/zenorocha/alfred-workflows) for more workflows.
 
 ## License
 
